@@ -1,0 +1,25 @@
+body {
+background: url('cuatro.jpeg') center;
+}
+
+#header {
+    color: rgb(82, 45, 117);
+}
+
+.bg-color-lsb {
+    background-color: lightsteelblue;
+}
+
+.bg-color-dc {
+    background-color: darkorchid;
+}
+
+input{
+    background-color: rgb(86, 148, 219);
+    border-radius: 5px;
+    border-color: blue;
+}
+
+label{
+    font-family: Arial, Helvetica, sans-serif;
+}
